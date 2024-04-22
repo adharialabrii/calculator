@@ -16,7 +16,7 @@ function clearDisplay(){
 }
 
 
-function calculate(){ /*own built in calculaor  */
+function calculate(){ //own built in 
 
 try{
     display.value=eval(display.value)
